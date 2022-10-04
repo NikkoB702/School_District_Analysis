@@ -1,1 +1,3 @@
 # School_District_Analysis
+
+We can't derive too much from the data received by Maria unfortunately. With a significant number of null values and duplicates the data could be quite skewed. Some takeaways from our data pulls show that on average charter schools test about four points higher than public schools in the math scores department. However, it’s dead even when referring to reading scores between the two. When analyzing math scores across all grades, charter schools rank on average about 6 points higher than public schools except for senior year, where public schools score just over three points higher than charter schools.
